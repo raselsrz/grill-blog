@@ -101,7 +101,7 @@ get_header();
                                         <div class="view-comments">
                                             <div class="comments">
                                                 <div class="author-thumb">
-                                                    <img src="<?php echo htmlspecialchars($_SESSION['user_data']['profile_photo']); ?>" alt="" />
+                                                    <img src="https://img.icons8.com/bubbles/100/000000/user.png" alt="" />
                                                 </div>
                                                 <div class="comment-body">
                                                     <h6><?php echo htmlspecialchars($datasx['name']); ?></h6>
